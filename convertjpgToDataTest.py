@@ -44,5 +44,6 @@ X_train = base_model.predict(X_train)
 X_valid = base_model.predict(X_valid)
 X_train.shape, X_valid.shape
 
+
 #X_train = X_train.reshape(208, 7*7*512)
 #X_valid = X_valid.reshape(90, 7*7*512)
