@@ -1,0 +1,4 @@
+data/obj/film_0_frame_1.jpg
+data/obj/film_0_frame_4.jpg
+data/obj/film_0_frame_7.jpg
+data/obj/film_0_frame_11.jpg
